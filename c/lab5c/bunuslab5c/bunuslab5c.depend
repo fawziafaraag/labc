@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666332929 source:e:\iti\c\bunuslab5c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
